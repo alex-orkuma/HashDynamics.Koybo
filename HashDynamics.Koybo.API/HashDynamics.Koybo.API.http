@@ -1,0 +1,6 @@
+@HashDynamics.Koybo.API_HostAddress = http://localhost:5125
+
+GET {{HashDynamics.Koybo.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
